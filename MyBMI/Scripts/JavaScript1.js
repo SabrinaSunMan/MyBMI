@@ -1,0 +1,4 @@
+﻿function CallMe()
+{
+    alert('Hi!');
+}
